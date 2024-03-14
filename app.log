@@ -1,0 +1,70 @@
+2024-03-14 20:30:43,192 - INFO -    choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+2024-03-14 20:30:47,607 - INFO -    choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+2024-03-14 20:30:51,838 - INFO -    Title    Author ISBN
+0    GOR  Jk rolin  123
+1    LOR      rama  345
+2  LOR22    Myself  456
+3      2         3    4
+4                   123
+5      2         3    4
+6      2         3   45
+7                   123
+2024-03-14 20:30:51,852 - INFO -    choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+2024-03-14 20:31:18,232 - INFO - User ID 4 does not exists.
+2024-03-14 20:31:18,234 - INFO -    choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
