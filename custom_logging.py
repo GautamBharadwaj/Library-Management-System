@@ -14,7 +14,7 @@ def setup_logging():
     file_handler.setLevel(logging.INFO)
 
     # Create formatter and add it to the handlers
-    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    formatter = logging.Formatter('%(message)s')  # Remove timestamp and levelname from the formatter
     console_handler.setFormatter(formatter)
     file_handler.setFormatter(formatter)
 
