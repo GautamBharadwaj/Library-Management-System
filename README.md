@@ -16,6 +16,10 @@ To use the system, follow these steps:
     ```
     cd Library-Management-System
     ```
+3. Install the required dependencies
+   ```
+    pip install -r requirements.txt.
+    ```
 3. Run the main.py file:
     ```
     python main.py
