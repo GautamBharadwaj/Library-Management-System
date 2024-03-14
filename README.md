@@ -14,7 +14,7 @@ To use the system, follow these steps:
     ```
 2. Navigate to the directory:
     ```
-    cd library-management-system
+    cd Library-Management-System
     ```
 3. Run the main.py file:
     ```
