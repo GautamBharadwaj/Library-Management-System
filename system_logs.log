@@ -1,0 +1,581 @@
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  Title Author ISBN
+0   rot    abc  123
+1   got    def  234
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  Title Author ISBN
+0   rot    abc  123
+1   got    def  234
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  Title Author ISBN
+0  rot2   abc2  123
+1   got    def  234
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  Title Author ISBN
+0  rot2   abc2  123
+1   got    def  234
+2   lor    ijk  345
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  Title Author ISBN
+1   got    def  234
+2   lor    ijk  345
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+Search Results:
+  Title Author ISBN
+1   got    def  234
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+       Name UserID
+0  gatuam m      1
+1   gayatri      2
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+       Name UserID
+0  gatuam m      1
+1   gayatri      2
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+
+Book does not exist.
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  Title Author ISBN
+1   got    def  234
+2   lor    ijk  345
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  Title Author ISBN
+0   got    def  234
+1   lor    ijk  345
+2  lor3    lmn  567
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+       Name UserID
+0  gatuam m      1
+1   gayatri      2
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+
+Book is checked out.
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+
+Book is checked out.
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+
+Book is available for checkout.
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  UserID ISBN                CheckoutTime CheckinTime
+0      2  345  2024-03-16 07:53:22.390666        None
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+
+Book is checked out.
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+
+Book checked in successfully.
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  UserID ISBN                CheckoutTime                 CheckinTime
+0      2  345  2024-03-16 07:53:22.390666  2024-03-16 07:53:59.996665
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+
+Book is checked out.
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books
+  UserID ISBN                CheckoutTime                 CheckinTime
+0      2  345  2024-03-16 07:53:22.390666  2024-03-16 07:53:59.996665
+1      1  345  2024-03-16 07:54:07.944500                        None
+   choices              Description
+0        1                 Add Book
+1        2              Update Book
+2        3              Delete Book
+3        4                List Book
+4        5              Search Book
+5        6                 Add User
+6        7              Update User
+7        8              Delete User
+8        9                List User
+9       10              Search User
+10      11            Checkout Book
+11      12             CheckIn Book
+12      13  Track Book Availability
+13      14      List CheckOut Books

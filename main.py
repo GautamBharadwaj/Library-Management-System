@@ -1,8 +1,8 @@
 import pandas as pd
-from Manage_Book import Book
-from Manage_User import User
-from Manage_Book_CheckIn_CheckOut import Check_In_Check_Out
-from custom_logging import setup_logging
+from book import book_manager
+from user import user_manager
+from checkin_checkout import checkin_checkout_manager
+from logger import setup_logging
 import logging
 # Configure logging
 setup_logging()
@@ -26,9 +26,9 @@ def show_choices():
     logging.info(df)
 
 def main():
-    book = Book()
-    user = User()
-    check = Check_In_Check_Out()
+    book_mgr = book_manager()
+    user_mgr = user_manager()
+    checkout_mgr = checkin_checkout_manager()
     while True:
         show_choices()
         choice = input("Enter choice: ")
@@ -37,56 +37,56 @@ def main():
             author = input("Author: ")
             isbn = input("ISBN: ")  
             if validate_isbn(isbn):    
-                book.add(title, author, isbn)
+                book_mgr.add_book(title, author, isbn)
         elif choice == "2":
             isbn = input("ISBN: ")
             title = input("New Title (press Enter to skip): ")
             author = input("New Author (press Enter to skip): ")
             if validate_isbn(isbn):    
-                book.update(isbn, title, author)
+                book_mgr.update_book(isbn, title, author)
         elif choice == "3":
             isbn = input("ISBN: ")
             if validate_isbn(isbn):    
-                book.delete(isbn)
+                book_mgr.delete_book(isbn)
         elif choice == "4":
-            book.list_books()
+            book_mgr.list_books()
         elif choice == "5":
             word = input("Word: ")
-            book.search_books(word)
+            book_mgr.search_books(word)
         elif choice == "6":
             name = input("Name: ")
             user_id = input("UserID: ")
             if validate_user_id(user_id):    
-                user.add_user(name, user_id)
+                user_mgr.add_user(name, user_id)
         elif choice == "7":
             user_id = input("UserID: ")
             name = input("New Name (press Enter to skip): ")
             if validate_user_id(user_id):    
-                user.update_user(name, user_id)
+                user_mgr.update_user(name, user_id)
         elif choice == "8":
             user_id = input("UserID: ")
             if validate_user_id(user_id):    
-                user.delete_user(user_id)
+                user_mgr.delete_user(user_id)
         elif choice == "9":
-            user.list_user()
+            user_mgr.list_users()
         elif choice == '10': # Checkout Book
             name = input("Name: ")
-            user.search_user(name)
+            user_mgr.search_users(name)
         elif choice == '11': # Checkout Book
             user_id = input("Enter user ID: ")
             isbn = input("Enter ISBN: ")
             if validate_isbn(isbn) and validate_user_id(user_id):    
-                check.checkout_book(user_id, isbn)
+                checkout_mgr.checkout_book(user_id, isbn)
         elif choice == "12":
             isbn = input("Enter ISBN: ")
             if validate_isbn(isbn):    
-                check.checkin_book(isbn)    
+                checkout_mgr.checkin_book(isbn)    
         elif choice=="13":
             isbn = input("Enter ISBN: ")
             if validate_isbn(isbn):    
-                check.is_book_available(isbn)
+                checkout_mgr.is_book_available(isbn)
         elif choice=="14":
-            check.list_all_checkout_books()
+            checkout_mgr.list_all_checkout_books()
         else:
             logging.info("Invalid choice. Please try again.")
 

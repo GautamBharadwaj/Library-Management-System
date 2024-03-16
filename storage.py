@@ -1,16 +1,16 @@
 import pandas as pd
 import sqlite3
 
-class DatabaseManager():
+class database_manager():
 
     def __init__(self):    
-        self.conn = sqlite3.connect("Library_Management_System.db")
+        self.conn = sqlite3.connect("library_management_system.db")
         self.cur = self.conn.cursor()
     
     def save_to_sql(self, df, table_name):
         df.to_sql(table_name, self.conn, if_exists='replace', index=False)
 
-    def BookDB(self):    
+    def book_db(self):    
         self.cur.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='books'")
         table_exists = self.cur.fetchone()
         if table_exists:
@@ -20,7 +20,7 @@ class DatabaseManager():
             self.books_df.to_sql('books', self.conn, if_exists='replace',index=False)
         return self.books_df
         
-    def UserDB(self):
+    def user_db(self):
         self.cur.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='users'")
         table_exists = self.cur.fetchone()
         if table_exists:
@@ -30,7 +30,7 @@ class DatabaseManager():
             self.users_df.to_sql('users', self.conn, if_exists='replace',index=False)
         return self.users_df
     
-    def BookCheckOutCheckIn(self):
+    def checkin_checkout_db(self):
         self.cur.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='checkouts'")
         table_exists = self.cur.fetchone()
         if table_exists:
